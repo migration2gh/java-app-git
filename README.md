@@ -1,4 +1,4 @@
-#dummy commit to trigger the pipeline test tesing for more changes changes changes change
+#dummy commit to trigger the pipeline test tesing for more changes changes changes change dummy commit
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
