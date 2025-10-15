@@ -1,4 +1,5 @@
-trigger: master  # Disable default trigger
+trigger: 
+  - master
 
 pr:
   branches:
@@ -6,13 +7,6 @@ pr:
       - main
       - master
       - develop
-
-resources:
-  repositories:
-    - repository: self
-      type: github
-      endpoint: moink635
-      name: repomigrategit/RepoMigration
 
 pool:
   vmImage: 'ubuntu-latest'
