@@ -9,7 +9,7 @@ pr:
       - develop
 
 pool:
-  name: Hostedagent
+  name: Default
   demands:
     - agent.name -equals myvm
 
