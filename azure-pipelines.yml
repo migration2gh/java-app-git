@@ -10,8 +10,6 @@ pr:
 
 pool:
   name: Default
-  demands:
-    - agent.name -equals myvm
 
 
 steps:
