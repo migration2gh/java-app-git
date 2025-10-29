@@ -9,7 +9,10 @@ pr:
       - develop
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name: Hostedagent
+  demands:
+    - agent.name -equals myvm
+
 
 steps:
 - task: Maven@3
