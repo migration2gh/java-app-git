@@ -1,6 +1,7 @@
-#dummy commit to trigger the pipeline test tesing for more changes changes changes change dummy commit
+#dummy commit to trigger the pipeline test tesing for more changes
 # Contributing
-
+# commit the new develop1 
+#validating tesing closing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
@@ -29,3 +30,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+#commiting 
