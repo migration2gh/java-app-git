@@ -9,7 +9,8 @@ pr:
       - develop
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name: Default
+
 
 steps:
 - task: Maven@3
